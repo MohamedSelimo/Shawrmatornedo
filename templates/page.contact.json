@@ -1,0 +1,159 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    },
+    "collapsible_content_XftBgb": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_dLYXa6": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "كيف يمكنني الطلب من متجر شاورما تورنيدو؟",
+            "icon": "none",
+            "row_content": "<p>يمكنك الطلب عبر موقعنا الالكتروني او تطبيقنا المخصص . حيث يتيح لك ذلك اختيار المنتجات و تحديد تفاصيل الطلب بكل سهولة</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Bi8qDF": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "ما هي طرق الدفع المتاحة؟",
+            "icon": "none",
+            "row_content": "<p>نقدم عدة خيارات دفع تشمل الدفع الإلكتروني عبر بطاقات الائتمان، ، بالإضافة إلى الدفع عند التوصيل كاش</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_Mgb3pN": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "ما هي تكلفة التوصيل؟",
+            "icon": "none",
+            "row_content": "<p>تختلف تكلفة التوصيل حسب المنطقة والكمية المطلوبة. يمكنكم التحقق من التكاليف المحددة أثناء عملية الطلب عبر الموقع أو التطبيق.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_zAzej7": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "هل يمكنني تعديل أو إلغاء طلبي بعد تقديمه؟",
+            "icon": "none",
+            "row_content": "<p>نعتذر، ولكن بمجرد تأكيد الطلب، لا يمكن تعديله أو إلغاؤه. يرجى التحقق جيدًا من تفاصيل الطلب قبل تأكيده.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_k7wJjY": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "هل يتم توفير قائمة طعام خاصة للأشخاص الذين يعانون من حساسية تجاه بعض المكونات؟",
+            "icon": "none",
+            "row_content": "<p>نعم، يمكنكم العثور على معلومات حول المكونات والحساسيات على موقعنا أو التطبيق.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_wpQaii": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "هل يوفر متجر شاورما وبطاطا مزار خدمة توصيل إلى جميع المناطق؟",
+            "icon": "none",
+            "row_content": "<p>نحن نوفر خدمة التوصيل في العديد من المناطق. يُرجى التحقق من توفر الخدمة في منطقتكم خلال عملية الطلب.</p>",
+            "page": ""
+          }
+        },
+        "collapsible_row_CUpnTQ": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "كيف يمكنني التواصل مع خدمة العملاء في حالة وجود أي مشكلة؟",
+            "icon": "none",
+            "row_content": "<p>يمكنكم التواصل مع خدمة العملاء عبر البريد الإلكتروني أو الهاتف المحمول، وسيكون فريقنا جاهزًا لمساعدتكم في حل أي مشكلة.<br/><br/>نحن نأمل أن تكون هذه الأسئلة قد قدمت إجابات شافية، ونتطلع إلى خدمتكم بشكل ممتاز في متجر شاورما</p>",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_dLYXa6",
+        "collapsible_row_Bi8qDF",
+        "collapsible_row_Mgb3pN",
+        "collapsible_row_zAzej7",
+        "collapsible_row_k7wJjY",
+        "collapsible_row_wpQaii",
+        "collapsible_row_CUpnTQ"
+      ],
+      "settings": {
+        "caption": "",
+        "heading": "الاسئلة الشائعه",
+        "heading_size": "h1",
+        "heading_alignment": "right",
+        "layout": "row",
+        "color_scheme": "",
+        "container_color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 16
+      }
+    },
+    "rich_text_dth4qE": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_RX3kiU": {
+          "type": "heading",
+          "settings": {
+            "heading": "لم تعثر علي سؤالك ؟",
+            "heading_size": "h1"
+          }
+        },
+        "text_YE7CAA": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>يسعدنا ان تتواصل معنا عبر قنوات التواصل الخاصة بنا</h2>"
+          }
+        },
+        "button_jBKjjF": {
+          "type": "button",
+          "settings": {
+            "button_label": "اتصل بنا",
+            "button_link": "shopify://pages/contact",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_RX3kiU",
+        "text_YE7CAA",
+        "button_jBKjjF"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 0,
+        "padding_bottom": 44
+      }
+    }
+  },
+  "order": [
+    "main",
+    "collapsible_content_XftBgb",
+    "rich_text_dth4qE"
+  ]
+}

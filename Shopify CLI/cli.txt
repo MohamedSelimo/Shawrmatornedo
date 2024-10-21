@@ -1,0 +1,10 @@
+
+
+اول باول 
+
+shopify theme serve
+..........................
+
+
+دفعه واحدة
+shopify theme push --allow-live

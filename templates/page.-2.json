@@ -1,0 +1,47 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_AwNnfa": {
+      "type": "rich-text",
+      "blocks": {
+        "text_wzmKNM": {
+          "type": "text",
+          "settings": {
+            "text": "<p>لا تترددوا في التواصل معنا <br/><br/>+9660505050505<br/>جده السعودية</p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_wzmKNM"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "main",
+    "rich_text_AwNnfa"
+  ]
+}

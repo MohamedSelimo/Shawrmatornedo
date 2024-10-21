@@ -1,0 +1,204 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/785e91c89f272896d2240e4a1de2aa19.webp",
+            "heading": "شاورما مالذ وطاب",
+            "heading_size": "h0",
+            "subheading": "",
+            "button_label": "اطلب الان",
+            "link": "shopify://collections/all",
+            "button_style_secondary": false,
+            "box_align": "middle-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 10,
+            "color_scheme": "scheme-4",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide-0"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "عروض الخميس",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "العروض",
+        "products_to_show": 8,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 16,
+        "padding_bottom": 64
+      }
+    },
+    "collection_list_ykGc76": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_KkA8pE": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "السندوتشات"
+          }
+        },
+        "featured_collection_zmcrdT": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "الصحون"
+          }
+        },
+        "featured_collection_j9bHMH": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "العصائر"
+          }
+        },
+        "featured_collection_qdYdh4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "العروض"
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_KkA8pE",
+        "featured_collection_zmcrdT",
+        "featured_collection_j9bHMH",
+        "featured_collection_qdYdh4"
+      ],
+      "settings": {
+        "title": "افضل عروضنا",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "",
+        "show_view_all": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow_z7Lp6H": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_hAXL3C": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/01.webp",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_DtNLNY": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/02.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_9Fq7Xx": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/04.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_hAXL3C",
+        "slide_DtNLNY",
+        "slide_9Fq7Xx"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "medium",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "ambient",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "featured_collection",
+    "collection_list_ykGc76",
+    "slideshow_z7Lp6H"
+  ]
+}
